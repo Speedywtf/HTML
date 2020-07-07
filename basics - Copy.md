@@ -18,4 +18,6 @@
 
 The title is what appears in the pages tab, this is always put under the HEAD
 
-The actual HTML code is always put under the BODY``` 
+The actual HTML code is always put under the BODY
+
+<!DOCTYPE html> is required at the top as it tells your editor that you are going to be using HTML``` 
